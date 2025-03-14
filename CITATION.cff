@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Proof of ML Inference for Reentrancy Detection in Solidity Smart Contracts"
+version: "1.0.0"
+date-released: "2025-03-14"
+authors:
+  - family-names: "Havlin"
+    given-names: "Alexander"
+    affiliation: "University of Manchester, School of Engineering"
+keywords:
+  - zero-knowledge machine learning
+  - smart contracts
+  - reentrancy
+  - machine learning
+  - zero-knowledge proofs
+  - zk-SNARK
+  - EZKL
+  - Solidity
+repository-code: "https://github.com/ajhavlin/zkml-reentrancy-detector"
+url: "https://github.com/ajhavlin/zkml-reentrancy-detector"
+license: "MIT"
+references:
+  - label: "[1]"
+    title: "Reentrancy Detector for Solidity Smart Contracts"
+    author: "Luke Tchang"
+    year: "2020"
+    note: "Stanford EDU CS230 Deep Learning Project Report"
+    url: "https://cs230.stanford.edu/projects_fall_2020/reports/55027434.pdf"
+  - label: "[2]"
+    title: "Automated Software Vulnerability Detection with Machine Learning"
+    author: "Jacob A. Harer and Louis Y. Kim and Rebecca L. Russell and Onur Ozdemir and Leonard R. Kosta and Akshay Rangamani and Lei H. Hamilton and Gabriel I. Centeno and Jonathan R. Key and Paul M. Ellingwood and Erik Antelman and Alan Mackay and Marc W. McConley and Jeffrey M. Opper and Peter Chin and Tomo Lazovich"
+    year: "2018"
+    note: "ArXiv preprint, arXiv:1803.04497"
+  - label: "[3]"
+    title: "SB Curated Data Repository"
+    url: "https://github.com/smartbugs/smartbugs/tree/master/dataset"
+  - label: "[4]"
+    title: "GNNSCVulDetector Data Repository"
+    url: "https://github.com/vntchain/GNNSCVulDetector"
+  - label: "[5]"
+    title: "SolidiFI Benchmark Data Repository"
+    url: "https://github.com/smartbugs/SolidiFI-benchmark"

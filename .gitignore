@@ -1,0 +1,12 @@
+version
+network.onnx
+settings.json
+input.json
+calibration.json
+model.compiled
+pk.key
+vk.key
+vk.abi
+verifier_abi.json
+witness.json
+proof.json
